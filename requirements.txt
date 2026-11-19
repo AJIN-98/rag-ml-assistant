@@ -1,0 +1,9 @@
+pypdf
+sentence-transformers
+faiss-cpu
+google-genai
+openai
+gradio
+scikit-learn
+pandas
+matplotlib
